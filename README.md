@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/spectrxtt/Frontend-Mentor-3-column-card-component.git)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://spectrxtt.github.io/Frontend-Mentor-3-column-card-component/)
 
 ## My process
 
@@ -42,14 +42,13 @@ Users should be able to:
 - CSS Grid
 
 ### What I learned
-
+I have learned how to manage the use of elements in columns or rows depending on the page view.
 
 ### Continued development
-
+I want to continue learning how to make more efficient the way to create the structure of the page and its different views according to the device. 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/spectrxtt)
+- Twitter - [@yourusername](https://www.twitter.com/SPECTRE_tt)
 
